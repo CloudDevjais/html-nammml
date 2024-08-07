@@ -1,0 +1,15 @@
+
+.love{
+
+    width: 200px;
+    height:200px;
+    border:10px ;
+}
+*{
+    text-align: center;
+    background-color: palevioletred;
+}
+#first{
+    background-color: aqua;
+    border: 10px solid bisque;
+}
